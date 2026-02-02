@@ -5,3 +5,7 @@ format: gfm
 ---
 
 Test quarto document for video tutorial
+```{r}
+1+1
+```
+
